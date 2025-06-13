@@ -1,0 +1,3 @@
+[submodule "backend/clinic-service"]
+	path = backend/clinic-service
+	url = https://github.com/RicksonRocha/clinic-service.git
